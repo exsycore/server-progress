@@ -3,8 +3,7 @@
 
 <hr>
 <h3 align="left">✅ Hungry & Progressbar</h3>
-<p>ค่าความหิวที่มีแรงบัลดาลใจจาก </p>
-<a href="https://arizona-rp.com" target="_blank">Arizona Roleplay</a> 
+<p>ค่าความหิวที่มีแรงบัลดาลใจจาก <a href="https://arizona-rp.com" target="_blank">Arizona Roleplay</a></p>
 <h3 align="left">✅ Dynamic Pickups</h3>
 <p>การสร้าง Pickups โดยไม่ต้องแก้ไขในโค้ดของเซิร์ฟเวอร์</p>
 <br>
