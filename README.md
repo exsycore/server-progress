@@ -1,7 +1,7 @@
 <h1 align="center">เซิร์ฟเวอร์ UAE - United Arab Emirate</h1>
 <h3 align="center">ความคืบหน้าของเซิร์ฟเวอร์</h3>
 
-<br>
+<hr>
 <h3 align="left">✅ Hungry & Progressbar</h3>
 <p>ค่าความหิวที่มีแรงบัลดาลใจจาก Arizona Roleplay</p>
 <h3 align="left">✅ Dynamic Pickups</h3>
