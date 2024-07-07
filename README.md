@@ -2,5 +2,5 @@
 <h3 align="center">ความคืบหน้าของเซิร์ฟเวอร์</h3>
 
 <br>
-<h5>✅ Dynamic Pickups</h5>
+<h3>✅ Dynamic Pickups</h3>
 <p>การสร้าง Pickups โดยไม่ต้องแก้ไขในโค้ดของเซิร์ฟเวอร์</p>
