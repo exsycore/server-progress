@@ -9,7 +9,7 @@
 <h3 align="left">✅ Passport System</h3>
 <p>ระบบ Passport เพื่อป้องกันผู้ไม่หวังดีเข้ามาในเซิร์ฟเวอร์ (แค่เบื้องต้น) by <a href="https://github.com/exsycore">EasyCore</a></p>
 <hr>
-<h5 align="center">Advance</h5>
+<h3 align="center">Advance</h3>
 <h3 align="left">✅ Dynamic Pickups</h3>
 <p>การสร้าง Pickups โดยไม่ต้องแก้ไขในโค้ดของเซิร์ฟเวอร์ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <br>
