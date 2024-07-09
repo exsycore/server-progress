@@ -18,6 +18,8 @@
 <p>ระบบกระเป๋าผู้เล่นในรูปแบบกล่องสี่เหลี่ยม ไดอะล็อก(Dialog) by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Dynamic Pickups</h3>
 <p>การสร้าง Pickups โดยไม่ต้องแก้ไขในโค้ดของเซิร์ฟเวอร์ by <a href="https://github.com/exsycore">EasyCore</a></p>
+<h3 align="left">✅ MySQL connect</h3>
+<p>ระบบเชื่อมต่อกับฐานข้อมูลแม่นยำมากๆๆๆอิอิ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ AnimationFix</h3>
 <p>แก้ไขท่าทางของผู้เล่นเมื่อกดใช้แล้วไม่เกิดอะไรขึ้น by <a href="https://github.com/exsycore">EasyCore</a></p>
 <br>
