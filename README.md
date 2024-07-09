@@ -14,6 +14,8 @@
 <p>ระบบรับของขวัญสำหรับผู้เริ่มต้น by <a href="https://github.com/exsycore">EasyCore</a></p>
 <hr>
 <h3 align="center">Advances</h3>
+<h3 align="left">✅ Inventory with Dialog</h3>
+<p>ระบบกระเป๋าผู้เล่นในรูปแบบกล่องสี่เหลี่ยม ไดอะล็อก(Dialog) by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Dynamic Pickups</h3>
 <p>การสร้าง Pickups โดยไม่ต้องแก้ไขในโค้ดของเซิร์ฟเวอร์ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ AnimationFix</h3>
