@@ -1,4 +1,4 @@
-<h1 align="center">เซิร์ฟเวอร์ UAE - United Arab Emirate</h1>
+<h1 align="center">เซิร์ฟเวอร์ Nexura Roleplay</h1>
 <h3 align="center">ความคืบหน้าของเซิร์ฟเวอร์</h3>
 
 <hr>
@@ -21,5 +21,5 @@
 <h3 align="left">✅ MySQL connect</h3>
 <p>ระบบเชื่อมต่อกับฐานข้อมูลแม่นยำมากๆๆๆอิอิ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ AnimationFix</h3>
-<p>แก้ไขท่าทางของผู้เล่นเมื่อกดใช้แล้วไม่เกิดอะไรขึ้น by <a href="https://github.com/exsycore">EasyCore</a></p>
+<p>แก้ไขท่าทางของผู้เล่น by <a href="https://github.com/exsycore">EasyCore</a></p>
 <br>
